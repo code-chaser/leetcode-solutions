@@ -4,19 +4,19 @@ Archive of my solution codes to [leetcode problems](https://leetcode.com/problem
 ___
 
 ## Problems Solved
-|S. No.|Title|Link|
-|:-:|-|-|
-|1.| Merge two Sorted Lists |https://leetcode.com/problems/merge-two-sorted-lists/|
-|2.| Merge k Sorted Lists |https://leetcode.com/problems/merge-k-sorted-lists/|
-|3.| Sort a List |https://leetcode.com/problems/sort-list/|
-|4.| Reverse a Linked List |https://leetcode.com/problems/reverse-linked-list/|
-|5.| Odd Even Linked List |https://leetcode.com/problems/odd-even-linked-list/|
-|6.| Reverse Nodes in k-groups |https://leetcode.com/problems/reverse-nodes-in-k-group/|
-|7.| Flatten Binary Tree to Linked List |https://leetcode.com/problems/flatten-binary-tree-to-linked-list/|
-|8.| Copy List with Random Pointer |https://leetcode.com/problems/copy-list-with-random-pointer/|
-|9.| Flatten a Multilevel Doubly Linked List |https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/|
-|10.| Linked List cycle II |https://leetcode.com/problems/linked-list-cycle-ii/|
-|11.| Add Two Numbers |https://leetcode.com/problems/add-two-numbers/|
-|12.| Swap Nodes in pairs |https://leetcode.com/problems/swap-nodes-in-pairs/|
-|13.| Rotate List |https://leetcode.com/problems/rotate-list/|
-|14.| Partition List |https://leetcode.com/problems/partition-list/|
+|S. No.|Title|Problem Statement|Solution|
+|:-:|-|-|-|
+|1.| Merge two Sorted Lists |https://leetcode.com/problems/merge-two-sorted-lists/|in: [C++](https://github.com/code-chaser/leetcode-solutions/blob/main/src/cpp/merge-two-sorted-lists.cpp)|
+|2.| Merge k Sorted Lists |https://leetcode.com/problems/merge-k-sorted-lists/|in: [C++](https://github.com/code-chaser/leetcode-solutions/blob/main/src/cpp/merge-k-sorted-lists.cpp)|
+|3.| Sort a List |https://leetcode.com/problems/sort-list/|in: [C++]()|
+|4.| Reverse a Linked List |https://leetcode.com/problems/reverse-linked-list/|in: [C++]()|
+|5.| Odd Even Linked List |https://leetcode.com/problems/odd-even-linked-list/|in: [C++]()|
+|6.| Reverse Nodes in k-groups |https://leetcode.com/problems/reverse-nodes-in-k-group/|in: [C++]()|
+|7.| Flatten Binary Tree to Linked List |https://leetcode.com/problems/flatten-binary-tree-to-linked-list/|in: [C++]()|
+|8.| Copy List with Random Pointer |https://leetcode.com/problems/copy-list-with-random-pointer/|in: [C++]()|
+|9.| Flatten a Multilevel Doubly Linked List |https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/|in: [C++]()|
+|10.| Linked List cycle II |https://leetcode.com/problems/linked-list-cycle-ii/|in: [C++]()|
+|11.| Add Two Numbers |https://leetcode.com/problems/add-two-numbers/|in: [C++]()|
+|12.| Swap Nodes in pairs |https://leetcode.com/problems/swap-nodes-in-pairs/|in: [C++]()|
+|13.| Rotate List |https://leetcode.com/problems/rotate-list/|in: [C++]()|
+|14.| Partition List |https://leetcode.com/problems/partition-list/|in: [C++]()|
