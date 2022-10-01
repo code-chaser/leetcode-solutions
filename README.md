@@ -4,7 +4,7 @@ Archive of my solution codes to [leetcode problems](https://leetcode.com/problem
 ___
 
 ## Problems Solved
-|S. No.|Title|Problem Statement|Solution|
+|#|Title|Problem Statement|Solution|
 |:-:|-|-|-|
 |1.| Merge two Sorted Lists |https://leetcode.com/problems/merge-two-sorted-lists/|in: [C++](https://github.com/code-chaser/leetcode-solutions/blob/main/src/cpp/merge-two-sorted-lists.cpp)|
 |2.| Merge k Sorted Lists |https://leetcode.com/problems/merge-k-sorted-lists/|in: [C++](https://github.com/code-chaser/leetcode-solutions/blob/main/src/cpp/merge-k-sorted-lists.cpp)|
