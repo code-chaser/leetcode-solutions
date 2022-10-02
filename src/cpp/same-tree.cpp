@@ -21,3 +21,4 @@ public:
         return isSameTree(p->left,q->left)&&isSameTree(p->right,q->right)&&p->val==q->val;
     }
 };
+//sumittion  https://leetcode.com/submissions/detail/803842022/
