@@ -6,7 +6,7 @@ ___
 ## Problems Solved
 |#|Title|Problem Statement|Solution|
 |:-:|-|-|-|
-|1.| Merge two Sorted Lists |https://leetcode.com/problems/merge-two-sorted-lists/|in: [C++](https://github.com/code-chaser/leetcode-solutions/blob/main/src/cpp/merge-two-sorted-lists.cpp)|
+|1.| Merge two Sorted Lists |https://leetcode.com/problems/merge-two-sorted-lists/|in: [C++](https://github.com/code-chaser/leetcode-solutions/blob/main/src/cpp/merge-two-sorted-lists.cpp), [JAVA](src/java/merge-two-sorted-lists.java)|
 |2.| Merge k Sorted Lists |https://leetcode.com/problems/merge-k-sorted-lists/|in: [C++](https://github.com/code-chaser/leetcode-solutions/blob/main/src/cpp/merge-k-sorted-lists.cpp)|
 |3.| Sort List |https://leetcode.com/problems/sort-list/|in: [C++](https://github.com/code-chaser/leetcode-solutions/blob/main/src/cpp/sort-list.cpp)|
 |4.| Reverse a Linked List |https://leetcode.com/problems/reverse-linked-list/|in: [C++](https://github.com/code-chaser/leetcode-solutions/blob/main/src/cpp/reverse-linked-list.cpp)|
@@ -20,6 +20,20 @@ ___
 |12.| Swap Nodes in pairs |https://leetcode.com/problems/swap-nodes-in-pairs/|in: [C++](https://github.com/code-chaser/leetcode-solutions/blob/main/src/cpp/swap-nodes-in-pairs.cpp)|
 |13.| Rotate List |https://leetcode.com/problems/rotate-list/|in: [C++](https://github.com/code-chaser/leetcode-solutions/blob/main/src/cpp/rotate-list.cpp)|
 |14.| Partition List |https://leetcode.com/problems/partition-list/|in: [C++](https://github.com/code-chaser/leetcode-solutions/blob/main/src/cpp/partition-list.cpp)|
+|15.| Best time to buy and sell stock |https://leetcode.com/problems/best-time-to-buy-and-sell-stock/|in: [C++](./src/cpp/best-time-to-buy-and-sell-stock.cpp)|
+|16.| Best time to buy and sell stock II |https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/|in: [C++](./src/cpp/best-time-to-buy-and-sell-stock-ii.cpp)|
+|17.| 132 Pattern |https://leetcode.com/problems/132-pattern/|in: [C++](./src/cpp/132-pattern.cpp)|
+|18.| Trapping Rain Water |https://leetcode.com/problems/trapping-rain-water/|in: [C++](./src/cpp/trapping-rain-water.cpp)|
+|19.| Validate Binary Search Tree |https://leetcode.com/problems/validate-binary-search-tree/|in: [C++](./src/cpp/validate-binary-search-tree.cpp)|
+|20.| Factorial Trailing Zeroes |https://leetcode.com/problems/factorial-trailing-zeroes/|in: [C++](./src/cpp/factorial-trailing-zeroes.cpp)|
+|21.| Symmetric Tree |https://leetcode.com/problems/symmetric-tree/|in: [C++](./src/cpp/symmetric-tree.cpp)|
+|22.| Meeting Rooms III |https://leetcode.com/problems/meeting-rooms-iii/|in: [JAVA](./src/java/meeting-rooms-iii.java)|
+|23.| Path Sum |https://leetcode.com/problems/path-sum/|in: [JAVA](./src/java/path-sum.java)|
+|24.| Path Sum II |https://leetcode.com/problems/path-sum-ii/|in: [JAVA](./src/java/path-sum-ii.java)|
+|25.| Path Sum III |https://leetcode.com/problems/path-sum-iii/|in: [JAVA](./src/java/path-sum-iii.java)|
+|26.| Reverse Odd Levels of Binary Tree |https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/|in: [JAVA](./src/java/reverse-odd-levels-of-binary-tree.java)|
+|27.| Minimum Money required before transactions |https://leetcode.com/problems/minimum-money-required-before-transactions/|in: [JAVA](./src/java/minimum-money-required-before-transactions.java)|
+
 
 ___
 
