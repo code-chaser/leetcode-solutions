@@ -1,5 +1,5 @@
 # leetcode-solutions
-Solutions to [leetcode problems](https://leetcode.com/problemset/all/).
+Solutions to [LeetCode problems](https://leetcode.com/problemset/all/).
 
 ___
 
