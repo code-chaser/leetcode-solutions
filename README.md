@@ -22,3 +22,9 @@ ___
 |14.| Partition List |https://leetcode.com/problems/partition-list/|in: [C++](https://github.com/code-chaser/leetcode-solutions/blob/main/src/cpp/partition-list.cpp)|
 
 ___
+
+## Contributors
+
+<a href="https://github.com/code-chaser/leetcode-solutions/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=code-chaser/leetcode-solutions" />
+</a>
