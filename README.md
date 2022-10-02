@@ -25,6 +25,14 @@ ___
 
 ## Contributors
 
+<br/>
 <a href="https://github.com/code-chaser/leetcode-solutions/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=code-chaser/leetcode-solutions" />
 </a>
+
+<br/>
+<br/>
+___
+> _A big Thanks to all the contributors! 🤍_
+___
+<br/>
