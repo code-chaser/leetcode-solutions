@@ -33,6 +33,11 @@ ___
 |25.| Path Sum III |https://leetcode.com/problems/path-sum-iii/|in: [JAVA](./src/java/path-sum-iii.java)|
 |26.| Reverse Odd Levels of Binary Tree |https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/|in: [JAVA](./src/java/reverse-odd-levels-of-binary-tree.java)|
 |27.| Minimum Money required before transactions |https://leetcode.com/problems/minimum-money-required-before-transactions/|in: [JAVA](./src/java/minimum-money-required-before-transactions.java)|
+|28.| Rotate Image |https://leetcode.com/problems/rotate-image/|in: [Python](./src/python/rotate-image.py)|
+|29.| Serialize and Deserialize Binary Tree |https://leetcode.com/problems/serialize-and-deserialize-binary-tree/|in: [Python](./src/python/serialize-and-deserialize-binary-tree.py)|
+|30.| Bitwise AND of Numbers Range |https://leetcode.com/problems/bitwise-and-of-numbers-range/|in: [Python](./src/python/bitwise-AND-of-numbers-range.py)|
+|31.| Keys and Rooms |https://leetcode.com/problems/keys-and-rooms/|in: [Python](./src/python/keys-and-rooms.py)|
+|32.| Encrypt and Decrypt Strings |https://leetcode.com/problems/encrypt-and-decrypt-strings/|in: [Python](./src/python/encrypt-and-decrypt-strings.py)|
 
 
 ___
