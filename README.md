@@ -1,5 +1,5 @@
 # leetcode-solutions
-Archive of my solution codes to [leetcode problems](https://leetcode.com/problemset/all/), solved for practice.
+Solutions to [leetcode problems](https://leetcode.com/problemset/all/).
 
 ___
 
