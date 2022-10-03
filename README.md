@@ -28,8 +28,8 @@ ___
 |20.| Factorial Trailing Zeroes |https://leetcode.com/problems/factorial-trailing-zeroes/|in: [C++](./src/cpp/factorial-trailing-zeroes.cpp)|
 |21.| Symmetric Tree |https://leetcode.com/problems/symmetric-tree/|in: [C++](./src/cpp/symmetric-tree.cpp)|
 |22.| Meeting Rooms III |https://leetcode.com/problems/meeting-rooms-iii/|in: [JAVA](./src/java/meeting-rooms-iii.java)|
-|23.| Path Sum |https://leetcode.com/problems/path-sum/|in: [JAVA](./src/java/path-sum.java) , in: [C++](.src/cpp/path-sum.cpp)|
-|24.| Path Sum II |https://leetcode.com/problems/path-sum-ii/|in: [JAVA](./src/java/path-sum-ii.java) , in: [C++](.src/cpp/path-sum-ii.cpp)|
+|23.| Path Sum |https://leetcode.com/problems/path-sum/|in: [JAVA](./src/java/path-sum.java) , in: [C++](https://github.com/KrishGaur1354/leetcode-solutions-1/blob/main/src/cpp/path-sum.cpp)|
+|24.| Path Sum II |https://leetcode.com/problems/path-sum-ii/|in: [JAVA](./src/java/path-sum-ii.java) , in: [C++](https://github.com/KrishGaur1354/leetcode-solutions-1/blob/main/src/cpp/path-sum-ii.cpp)|
 |25.| Path Sum III |https://leetcode.com/problems/path-sum-iii/|in: [JAVA](./src/java/path-sum-iii.java) , in: [C++](https://github.com/KrishGaur1354/leetcode-solutions-1/blob/main/src/cpp/path-sum-iii.cpp)||
 |26.| Reverse Odd Levels of Binary Tree |https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/|in: [JAVA](./src/java/reverse-odd-levels-of-binary-tree.java)|
 |27.| Minimum Money required before transactions |https://leetcode.com/problems/minimum-money-required-before-transactions/|in: [JAVA](./src/java/minimum-money-required-before-transactions.java)|
