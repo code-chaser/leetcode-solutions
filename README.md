@@ -44,8 +44,8 @@ ___
 |36.| Simplify Path |https://leetcode.com/problems/simplify-path/|in: [Python](./src/python/simplify-path.py)|
 |37.| Pow(x, n) |https://leetcode.com/problems/powx-n/|in: [Python](./src/python/powx-n.py)|
 
-
 ___
+
 
 ## Contributors
 
@@ -58,7 +58,9 @@ ___
 <br/>
 
 ___
+
 > _A big Thanks to all the contributors! 🤍_
+
 ___
 
 
