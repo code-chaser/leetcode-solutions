@@ -43,6 +43,11 @@ ___
 |35.| Climbing Stairs |https://leetcode.com/problems/climbing-stairs/|in: [Python](./src/python/climbing-stairs.py)|
 |36.| Simplify Path |https://leetcode.com/problems/simplify-path/|in: [Python](./src/python/simplify-path.py)|
 |37.| Pow(x, n) |https://leetcode.com/problems/powx-n/|in: [Python](./src/python/powx-n.py)|
+|38.| Longest Common Substring |https://www.geeksforgeeks.org/longest-common-substring-dp-29/|in: [Java](./src/java/LongestCommonSubstring.java)|
+|39.| Longest Common Subsequence |https://leetcode.com/problems/longest-common-subsequence/|in: [Java](./src/java/LongestCommonSubsequence.java)|
+|40.| House Robber II |https://leetcode.com/problems/house-robber-ii/|in: [Java](./src/java/HouseRobberII.java)|
+|41.| Minimum Swaps To Make Sequences Increasing |https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/|in: [Java](./src/java/MinimumSwapsMakeSequencesIncreasing.java)|
+
 
 
 ___
