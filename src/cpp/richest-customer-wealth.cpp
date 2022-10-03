@@ -1,5 +1,5 @@
 
-//   Author - Shadowpii
+//   Author - Shadowpii 
 
 class Solution {
 public:
@@ -9,8 +9,7 @@ public:
         n = accounts[0].size();
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                sum = sum + accounts[i][j];
-                
+                sum = sum + accounts[i][j];      
             }
             if(sum>max){
                     max = sum;
