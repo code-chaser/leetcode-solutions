@@ -76,3 +76,5 @@ class MyCircularQueue {
         return front!=-1 && next(rear)==front;
     }
 }
+
+//submission link:-https://leetcode.com/submissions/detail/808311377/
