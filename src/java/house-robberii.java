@@ -6,6 +6,9 @@ Given an integer array nums representing the amount of money of each house, retu
 Input: nums = [2,3,2]
 Output: 3
 Explanation: You cannot rob house 1 (money = 2) and then rob house 3 (money = 2), because they are adjacent houses.
+
+Submission Link: https://leetcode.com/submissions/detail/814642362/
+
 */
 
 public class HouseRobberII {

@@ -5,6 +5,9 @@ For example, if nums1 = [1,2,3,8], and nums2 = [5,6,7,4], you can swap the eleme
 Return the minimum number of needed operations to make nums1 and nums2 strictly increasing. The test cases are generated so that the given input always makes it possible.
 
 An array arr is strictly increasing if and only if arr[0] < arr[1] < arr[2] < ... < arr[arr.length - 1].
+
+Submission Link: https://leetcode.com/submissions/detail/806171350/
+
 */
 
 class Solution {
