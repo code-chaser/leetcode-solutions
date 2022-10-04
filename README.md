@@ -1,5 +1,7 @@
 # leetcode-solutions
+
 Solutions to [LeetCode problems](https://leetcode.com/problemset/all/).
+
 
 ___
 
@@ -38,22 +40,32 @@ ___
 |30.| Bitwise AND of Numbers Range |https://leetcode.com/problems/bitwise-and-of-numbers-range/|in: [Python](./src/python/bitwise-AND-of-numbers-range.py)|
 |31.| Keys and Rooms |https://leetcode.com/problems/keys-and-rooms/|in: [Python](./src/python/keys-and-rooms.py)|
 |32.| Encrypt and Decrypt Strings |https://leetcode.com/problems/encrypt-and-decrypt-strings/|in: [Python](./src/python/encrypt-and-decrypt-strings.py)|
-
+|33.| Valid Sudoku |https://leetcode.com/problems/valid-sudoku/|in: [Python](./src/python/valid-sudoku.py)|
+|34.| Group Anagrams |https://leetcode.com/problems/group-anagrams/|in: [Python](./src/python/group-anagrams.py)|
+|35.| Climbing Stairs |https://leetcode.com/problems/climbing-stairs/|in: [Python](./src/python/climbing-stairs.py)|
+|36.| Simplify Path |https://leetcode.com/problems/simplify-path/|in: [Python](./src/python/simplify-path.py)|
+|37.| Pow(x, n) |https://leetcode.com/problems/powx-n/|in: [Python](./src/python/powx-n.py)|
 
 ___
+
 
 ## Contributors
 
 <br/>
-<a href="https://github.com/code-chaser/leetcode-solutions/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=code-chaser/leetcode-solutions" />
-</a>
 
-<br/>
+<div align="center">
+<a href="https://github.com/code-chaser/leetcode-solutions/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=code-chaser/leetcode-solutions&max=100&columns=11" width=97%/>
+</a>
+</div>
+
+
 <br/>
 
 ___
+
 > _A big Thanks to all the contributors! 🤍_
+
 ___
 
 
