@@ -1,5 +1,7 @@
 # leetcode-solutions
+
 Solutions to [LeetCode problems](https://leetcode.com/problemset/all/).
+
 
 ___
 
@@ -49,21 +51,26 @@ ___
 |41.| Minimum Swaps To Make Sequences Increasing |https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/|in: [Java](./src/java/MinimumSwapsMakeSequencesIncreasing.java)|
 
 
-
 ___
+
 
 ## Contributors
 
 <br/>
-<a href="https://github.com/code-chaser/leetcode-solutions/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=code-chaser/leetcode-solutions" />
-</a>
 
-<br/>
+<div align="center">
+<a href="https://github.com/code-chaser/leetcode-solutions/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=code-chaser/leetcode-solutions&max=100&columns=11" width=97%/>
+</a>
+</div>
+
+
 <br/>
 
 ___
+
 > _A big Thanks to all the contributors! 🤍_
+
 ___
 
 
