@@ -1,10 +1,9 @@
 # project-leetcode
 
+
 <img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=code-chaser&repo=project-leetcode&countColorcountColor&countColor=%237B1E7B"/>
 <img align="right" src="https://img.shields.io/github/repo-size/code-chaser/leetcode-solutions?style=for-the-badge&logo=appveyor" alt="GitHub repo size"/>
-Our aim is to maintain a repository that has **quality editorials** to all the problems on LeetCode, no need to buy LeetCode Premium subscription.
-
-
+The aim is to build and maintain a repository that has **quality editorials** to all the problems on LeetCode, no need to buy LeetCode Premium subscription.
 
 <img align="right" alt="project-leetcode"  src="https://socialify.git.ci/code-chaser/project-leetcode/image?description=1&font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQim4sNv7bHn2l6Nt50vBQm_SyrP00MsV7Isb6CO_UN%26s&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" />
 
