@@ -2,7 +2,6 @@
 
 Solutions to [LeetCode problems](https://leetcode.com/problemset/all/).
 
-
 ___
 
 ## Problems Solved
