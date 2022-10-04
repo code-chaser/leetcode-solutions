@@ -1,6 +1,6 @@
-# leetcode-solutions
+# project-leetcode
 
-Solutions to [LeetCode problems](https://leetcode.com/problemset/all/).
+Our aim is to maintain a repository having **quality editorials** to all the problems on LeetCode, no need to buy LeetCode Premium subscription.
 
 ___
 
