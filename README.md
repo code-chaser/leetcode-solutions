@@ -1,8 +1,26 @@
 # leetcode-solutions
 
-Solutions to [LeetCode problems](https://leetcode.com/problemset/all/).
+<img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=code-chaser&repo=leetcode-solutions&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="https://img.shields.io/github/repo-size/code-chaser/leetcode-solutions?style=for-the-badge&logo=appveyor" alt="GitHub repo size"/>
 
-___
+<img align="right" alt="LearnCPP"  src="https://socialify.git.ci/code-chaser/leetcode-solutions/image?description=1&font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQim4sNv7bHn2l6Nt50vBQm_SyrP00MsV7Isb6CO_UN%26s&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" />
+
+<p align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt=" forks"/>
+<img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg" alt=" forks"/>
+</p>
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+## Want to contribute?
+- Take a look at [`contributing guidelines`](Contributing.md).
+- Refer [GitHub Flow](https://guides.github.com/introduction/flow). 
+
+<br>
+
+# Solutions to [LeetCode problems](https://leetcode.com/problemset/all/).
 
 ## Problems Solved
 |#|Title|Problem Statement|Solution|
@@ -69,3 +87,5 @@ ___
 
 
 <br/>
+<h6 align="center">© leetcode-solutions 2022 <br>
+All Rights Reserved</h6>
