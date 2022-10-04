@@ -26,3 +26,6 @@ class Solution {
 		return lowestCommonAncestor(root.right,p,q);
 	}
 }
+
+
+//submission link:-https://leetcode.com/submissions/detail/807405062/
