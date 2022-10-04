@@ -7,21 +7,39 @@ Return the minimum number of needed operations to make nums1 and nums2 strictly 
 An array arr is strictly increasing if and only if arr[0] < arr[1] < arr[2] < ... < arr[arr.length - 1].
 */
 
-public int MinimumSwapsMakeSequencesIncreasing(int[] A, int[] B) {
-        int N = A.length;
-        int[] swap = new int[1000];
-        int[] not_swap = new int[1000];
-        swap[0] = 1;
-        for (int i = 1; i < N; ++i) {
-            not_swap[i] = swap[i] = N;
-            if (A[i - 1] < A[i] && B[i - 1] < B[i]) {
-                swap[i] = swap[i - 1] + 1;
-                not_swap[i] = not_swap[i - 1];
-            }
-            if (A[i - 1] < B[i] && B[i - 1] < A[i]) {
-                swap[i] = Math.min(swap[i], not_swap[i - 1] + 1);
-                not_swap[i] = Math.min(not_swap[i], swap[i - 1]);
-            }
-        }
-        return Math.min(swap[N - 1], not_swap[N - 1]);
+class Solution {
+    public int minSwap(int[] nums1, int[] nums2) {
+        int n = nums1.length;
+        
+        // initialize dp table
+        int[][] memo = new int[2][n];
+        Arrays.fill(memo[0], -1);
+        Arrays.fill(memo[1], -1);
+        memo[0][0] = 0;
+        memo[1][0] = 1;
+        
+        return Math.min(recurse(nums1, nums2, n - 1, 0, memo),
+                        recurse(nums1, nums2, n - 1, 1, memo));
     }
+    
+    private int recurse(int[] nums1, int[] nums2, int i, int swap, int[][] memo) {
+        //check dp table
+        if (memo[swap][i] != -1)
+            return memo[swap][i];
+        
+        // initial value is set as max
+        int res = Integer.MAX_VALUE;
+        
+        // if array is increasing without swapping
+        if (nums1[i] > nums1[i - 1] && nums2[i] > nums2[i - 1])
+                res = recurse(nums1, nums2, i - 1, swap, memo);
+        
+        // if array is increasing with swapping
+        if (nums1[i] > nums2[i - 1] && nums2[i] > nums1[i - 1])
+                res = Math.min(res, 
+                               recurse(nums1, nums2, i - 1, 1 - swap, memo));
+        
+        memo[swap][i] = swap == 0 ? res : res + 1;
+        return memo[swap][i];
+    }
+}
