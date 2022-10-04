@@ -52,11 +52,14 @@ ___
 ## Contributors
 
 <br/>
-<a href="https://github.com/code-chaser/leetcode-solutions/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=code-chaser/leetcode-solutions" />
-</a>
 
-<br/>
+<div align="center">
+<a href="https://github.com/code-chaser/leetcode-solutions/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=code-chaser/leetcode-solutions&max=100&columns=11" width=97%/>
+</a>
+</div>
+
+
 <br/>
 
 ___
