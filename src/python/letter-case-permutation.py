@@ -8,3 +8,5 @@
                 tmp2 = [c+s.upper() for c in ans]
                 ans = tmp1 + tmp2
         return ans
+#By KrishGaur1354
+#https://leetcode.com/problems/letter-case-permutation/
