@@ -8,3 +8,5 @@
 
     def getValue(self, row: int, col: int) -> int:
         return self.r[row][col]
+#https://leetcode.com/problems/subrectangle-queries/
+#By KrishGaur1354
