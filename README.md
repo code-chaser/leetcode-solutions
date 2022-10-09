@@ -47,7 +47,9 @@ ___
 |38.| Longest Common Subsequence |https://leetcode.com/problems/longest-common-subsequence/|in: [Java](./src/java/longest-common-subsequence.java)|
 |39.| House Robber II |https://leetcode.com/problems/house-robber-ii/|in: [Java](./src/java/house-robber-ii.java)|
 |40.| Minimum Swaps To Make Sequences Increasing |https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/|in: [Java](./src/java/minimum-swaps-to-make-sequences-increasing.java)|
-
+|41.| The Employee That Worked on the Longest Task |https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/|in: [Python](./src/python/the-employee-that-worked-on-the-longest-task.py)|
+|42.| Find The Original Array of Prefix Xor |https://leetcode.com/problems/find-the-original-array-of-prefix-xor/|in: [Python](./src/python/find-the-original-array-of-prefix-xor.py)|
+|43.| Using a Robot to Print the Lexicographically Smallest String |https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/|in: [Python](./src/python/using-a-robot-to-print-the-lexicographically-smallest-string.py)|
 
 ___
 
