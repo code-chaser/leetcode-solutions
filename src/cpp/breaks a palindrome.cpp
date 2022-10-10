@@ -25,4 +25,4 @@ public:
     }
 };
 
-you can check the solution on https://leetcode.com/problems/break-a-palindrome/submissions/
+// you can check the solution on https://leetcode.com/problems/break-a-palindrome/submissions/

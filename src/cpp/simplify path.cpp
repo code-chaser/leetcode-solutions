@@ -45,4 +45,4 @@ public:
     }
 };
 
-you can check the code on https://leetcode.com/problems/simplify-path/submissions/
+// you can check the code on https://leetcode.com/problems/simplify-path/submissions/
