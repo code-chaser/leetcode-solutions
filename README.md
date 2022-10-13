@@ -53,6 +53,7 @@ ___
 |44.| Increasing Triplet Subsequence |https://leetcode.com/problems/increasing-triplet-subsequence/|in: [Python](./src/python/increasing-triplet-subsequence.py)|
 |45.| Break a Palindrome |https://leetcode.com/problems/break-a-palindrome/|in: [Python](./src/python/break-a-palindrome.py)|
 |46.| Permutation Sequence |https://leetcode.com/problems/permutation-sequence/|in: [Python](./src/python/permutation-sequence.py)|
+|47.| Word Break II |https://leetcode.com/problems/word-break-ii/|in: [C++](./src/cpp/word-break-ii.cpp)|
 ___
 
 
