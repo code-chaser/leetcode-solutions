@@ -50,7 +50,9 @@ ___
 |41.| The Employee That Worked on the Longest Task |https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/|in: [Python](./src/python/the-employee-that-worked-on-the-longest-task.py)|
 |42.| Find The Original Array of Prefix Xor |https://leetcode.com/problems/find-the-original-array-of-prefix-xor/|in: [Python](./src/python/find-the-original-array-of-prefix-xor.py)|
 |43.| Using a Robot to Print the Lexicographically Smallest String |https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/|in: [Python](./src/python/using-a-robot-to-print-the-lexicographically-smallest-string.py)|
-
+|44.| Increasing Triplet Subsequence |https://leetcode.com/problems/increasing-triplet-subsequence/|in: [Python](./src/python/increasing-triplet-subsequence.py)|
+|45.| Break a Palindrome |https://leetcode.com/problems/break-a-palindrome/|in: [Python](./src/python/break-a-palindrome.py)|
+|46.| Permutation Sequence |https://leetcode.com/problems/permutation-sequence/|in: [Python](./src/python/permutation-sequence.py)|
 ___
 
 
