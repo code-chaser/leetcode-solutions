@@ -2,6 +2,7 @@
 
 class Solution {
 public:
+    int solve(vector<int> &A, int B);
     int recur(vector<int>& prices, int ind, int buy, int k, vector<vector<vector<int>>>& dp) {
         if (ind == prices.size())return 0;
         if (k == 0)return 0;
