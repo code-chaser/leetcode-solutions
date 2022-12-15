@@ -1,6 +1,6 @@
-# project-leetcode
+# leetcode-solutions
 
-The aim is to build and maintain a repository that has **quality editorials** to all the problems on LeetCode, no need to buy LeetCode Premium subscription.
+Yet another leetcode solutions archive.
 
 ___
 
