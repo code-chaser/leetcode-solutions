@@ -55,10 +55,10 @@ ___
 |46.| Permutation Sequence |https://leetcode.com/problems/permutation-sequence/|in: [Python](./src/python/permutation-sequence.py)|
 |47.| Word Break II |https://leetcode.com/problems/word-break-ii/|in: [C++](./src/cpp/word-break-ii.cpp)|
 |48.| Combine Two Tables |https://leetcode.com/problems/combine-two-tables|in: [MySQL](src\mysql\combine-two-tables.sql)|
-|49.| Customers Who Never Order |https://leetcode.com/problems/customers-who-never-order|in: [MySQL](src\mysql\customers-who-never-order.sql)
-|50.| Department Highest Salary |https://leetcode.com/problems/department-highest-salary|in: [MySQL](src\mysql\department-highest-salary.sql)
-|51.| Employee Bonus |https://leetcode.com/problems/employee-bonus|in: [MySQL]src\mysql\employee-bonus.sql
-|52.| Find Customer Referee |https://leetcode.com/problems/find-customer-referee|in: [MySQL]src\mysql\find-customer-referee.sql
+|49.| Customers Who Never Order |https://leetcode.com/problems/customers-who-never-order|in: [MySQL](src\mysql\customers-who-never-order.sql)|
+|50.| Department Highest Salary |https://leetcode.com/problems/department-highest-salary|in: [MySQL](src\mysql\department-highest-salary.sql)|
+|51.| Employee Bonus |https://leetcode.com/problems/employee-bonus|in: [MySQL](src\mysql\employee-bonus.sql)|
+|52.| Find Customer Referee |https://leetcode.com/problems/find-customer-referee|in: [MySQL](src\mysql\find-customer-referee.sql)|
 ___
 
 
